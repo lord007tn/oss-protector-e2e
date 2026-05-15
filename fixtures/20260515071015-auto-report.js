@@ -4,3 +4,4 @@ export const reviewOnlyIndicators = {
   obfuscation: "eval(Buffer.from(payload, 'base64').toString())",
   risk: "credential token and backdoor indicator strings",
 };
+export const secondReviewSignal = 'base64 credential token indicator for synchronize event';
