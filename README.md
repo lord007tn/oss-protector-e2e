@@ -1,2 +1,3 @@
-# oss-protector-e2e
-E2E fixture repository for OSS Protector
+# Round 5 dogfood
+
+Fresh PR for reset + cross-target ack testing.
