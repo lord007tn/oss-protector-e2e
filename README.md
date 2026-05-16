@@ -1,2 +1,4 @@
-# oss-protector-e2e
-E2E fixture repository for OSS Protector
+# OSS Protector E2E Repo
+
+Comprehensive improvement to documentation.
+This repo validates OSS Protector webhook analysis.
