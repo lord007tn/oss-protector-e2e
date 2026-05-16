@@ -1,2 +1,3 @@
-# oss-protector-e2e
-E2E fixture repository for OSS Protector
+# OSS Protector smoke test
+
+Fixture commit at 2026-05-16T03-25-53-940Z.
