@@ -1,0 +1,3 @@
+// File 10
+export const value10 = 1000;
+// padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding 

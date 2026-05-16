@@ -1,0 +1,3 @@
+// File 6
+export const value6 = 600;
+// padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding 

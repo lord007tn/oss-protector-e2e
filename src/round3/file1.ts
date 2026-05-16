@@ -1,0 +1,3 @@
+// File 1
+export const value1 = 100;
+// padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding 

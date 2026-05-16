@@ -1,0 +1,3 @@
+// File 3
+export const value3 = 300;
+// padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding // padding 
