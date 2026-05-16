@@ -1,2 +1,1 @@
-# oss-protector-e2e
-E2E fixture repository for OSS Protector
+# OSS Protector E2E Repo\n\nFix typo in title.\n
