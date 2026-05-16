@@ -1,3 +1,3 @@
-# Round 4 alpha
+# Round 4 alpha rev2
 
-Benign baseline for testing edge cases.
+Benign README polish after clamp fix.
